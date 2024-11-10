@@ -1,4 +1,4 @@
-# Donut Animation
+# Donut ASCII
 
 This project generates an animated spinning donut in the terminal using C. It utilizes trigonometric functions, buffer management, and simple graphics rendering techniques to create a real-time animation.
 
